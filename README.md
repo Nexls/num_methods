@@ -1,1 +1,1 @@
-# Labs for numerical methods, BMSTU 5th grade
+## Labs for numerical methods, BMSTU 5th grade
